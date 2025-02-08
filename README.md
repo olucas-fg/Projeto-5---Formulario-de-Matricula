@@ -8,8 +8,8 @@ The **Registration Form** project aims to provide a simple yet effective way for
 
 ## Technologies Used 🛠️
 
-- **HTML5**: Structure and layout of the registration form.
-- **CSS3**: Styling the form elements, layout, and creating a responsive design.
+- **HTML**: Structure and layout of the registration form.
+- **CSS**: Styling the form elements, layout, and creating a responsive design.
 
 ## Features ✨
 
